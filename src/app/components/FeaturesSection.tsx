@@ -19,14 +19,14 @@ const FeaturesTitleWrapper = styled.div`
 `;
 
 const FeaturesTitle = styled.h2`
-  font-size: 44px;
+  font-size: 48px;
   color: #d81b60;
-  font-family: "Helvetica", "Arial", sans-serif; // <-- TU
+  font-family: "Helvetica", "Arial", sans-serif;
   font-weight: 700;
   margin-bottom: 30px;
 
   @media (max-width: 768px) {
-    font-size: 36px;
+    font-size: 40px;
   }
 `;
 
@@ -52,14 +52,14 @@ const FeaturesList = styled.ul`
 `;
 
 const FeatureItem = styled.li`
-  font-size: 33px;
+  font-size: 42px !important;
   color: #333;
   font-family: "Poppins", sans-serif;
-  margin-bottom: 15px;
-  line-height: 1.6;
+  margin-bottom: 30px;
+  line-height: 1.9;
 
   @media (max-width: 768px) {
-    font-size: 22px;
+    font-size: 32px !important;
   }
 
   &:before {
@@ -75,8 +75,8 @@ const FeatureItem = styled.li`
 const FeaturesSection: React.FC = () => {
   const features = [
     "AI to nie przyszłość – to teraz! Prowadzimy sztuczną inteligencję do naszych kampanii – od analizy, przez personalizację treści, aż po automatykację. Dzięki temu Twoje reklamy trafiają tam, gdzie trzeba, zanim jeszcze klikniesz „opublikuj”.",
-    "Krótkie wideo – wielki efekt. Reelsy, TikToki, Shorts – one dziś sprzedają. U nas kreczne wideo to nie kosztowny projekt, tylko szybka akcja z dużym zasięgiem.",
-    "PixelPunch na żywo – bezpłatny webinar już wkrótce! Już 5 kwietnia ruszamy z naszym pierwszym webinar z cyklu „Marketing bez żargonu”. Wejdź na stronę i poznaj podstawy promocji online bez lania wody.",
+    "Krótkie wideo – wielki efekt. Reelsy, TikToki, Shorts – one dziś sprzedają. U nas kręcenie wideo to nie kosztowny projekt, tylko szybka akcja z dużym zasięgiem.",
+    "PixelPunch na żywo – bezpłatny webinar już wkrótce! Już 5 kwietnia ruszamy z naszym pierwszym webinarem z cyklu „Marketing bez żargonu”. Wejdź na stronę i poznaj podstawy promocji online bez lania wody.",
     "Zielony marketing – lepsza marka. Zrównoważony rozwój to nie moda, to wymóg. Pomagamy firmom komunikować działania CSR tak, by nie brzmiały jak banał, tylko jak coś, co robi różnicę.",
   ];
 
@@ -84,7 +84,7 @@ const FeaturesSection: React.FC = () => {
     <FeaturesWrapper>
       <FeaturesTitleWrapper>
         <FeaturesTitle>Aktualności</FeaturesTitle>
-        <TitleDecoration>⭕</TitleDecoration>
+        <TitleDecoration>🔍</TitleDecoration>
       </FeaturesTitleWrapper>
       <FeaturesList>
         {features.map((feature, index) => (
