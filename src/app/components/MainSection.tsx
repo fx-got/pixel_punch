@@ -162,22 +162,22 @@ const MainSection: React.FC = () => {
         <SocialMediaBox>
           <SocialHeading>Znajdź nas na social mediach:</SocialHeading>
           <SocialItem>
-            📸 Instagram: 3 210 obserwujących <a href="#">→ Obserwuj</a>
+            📸 Instagram: 0 obserwujących <a href="#">→ Obserwuj</a>
           </SocialItem>
           <SocialItem>
-            📘 Facebook: 4 580 polubień <a href="#">→ Obserwuj</a>
+            📘 Facebook: 0 polubień <a href="#">→ Obserwuj</a>
           </SocialItem>
           <SocialItem>
-            🎵 TikTok: 2 970 fanów <a href="#">→ Obserwuj</a>
+            🎵 TikTok: 0 fanów <a href="#">→ Obserwuj</a>
           </SocialItem>
           <SocialItem>
-            📺 YouTube: 1 200 subskrypcji <a href="#">→ Obserwuj</a>
+            📺 YouTube: 0 subskrypcji <a href="#">→ Obserwuj</a>
           </SocialItem>
           <SocialItem>
-            💼 LinkedIn: 1 540 obserwujących <a href="#">→ Obserwuj</a>
+            💼 LinkedIn: 0 obserwujących <a href="#">→ Obserwuj</a>
           </SocialItem>
           <SocialItem>
-            🐦 Twitter(X): 980 followersów <a href="#">→ Obserwuj</a>
+            🐦 Twitter(X): x0 followersów <a href="#">→ Obserwuj</a>
           </SocialItem>
         </SocialMediaBox>
       </Left>
