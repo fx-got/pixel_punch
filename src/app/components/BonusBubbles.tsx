@@ -12,7 +12,7 @@ const Section = styled.section`
 
 const Title = styled.h2`
   font-family: "Tan Nimbus", serif;
-  font-size: 40px;
+  font-size: 45px;
   color: #734f96;
   text-align: center;
   margin-bottom: 40px;
@@ -21,7 +21,7 @@ const Title = styled.h2`
   &::after {
     content: "✨";
     margin-left: 12px;
-    font-size: 28px;
+    font-size: 33px;
   }
 `;
 
@@ -47,7 +47,7 @@ const Bubble = styled.div<{ top: string; left: string; rotate: string }>`
   background: white;
   padding: 24px 32px;
   font-weight: 600;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
   letter-spacing: 0.5px;
   text-align: center;

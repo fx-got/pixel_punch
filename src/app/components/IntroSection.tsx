@@ -23,20 +23,20 @@ const LeftBox = styled.div`
 `;
 
 const LogoTop = styled.h1`
-  font-size: 48px;
+  font-size: 50px;
   line-height: 1;
   margin: 0;
   font-weight: bold;
 `;
 
 const LogoBottom = styled.h2`
-  font-size: 40px;
+  font-size: 42px;
   margin: 0;
 `;
 
 const SubText = styled.p`
   margin-top: 16px;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 1px;
 `;
 
@@ -54,14 +54,14 @@ const Ribbon = styled.div`
   color: white;
   font-weight: bold;
   padding: 10px 20px;
-  font-size: 18px;
+  font-size: 20px;
   border-left: 8px solid #fff;
   margin-bottom: 20px;
   font-family: "Georgia", serif;
 `;
 
 const Description = styled.p`
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.6;
   font-family: "Georgia", serif;
 `;

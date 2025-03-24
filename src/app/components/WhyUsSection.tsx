@@ -19,7 +19,7 @@ const WhyUsTitleWrapper = styled.div`
 `;
 
 const WhyUsTitle = styled.h2`
-  font-size: 36px;
+  font-size: 38px;
   color: #d81b60;
   font-family: "Poppins", sans-serif;
   font-weight: 700;
@@ -38,13 +38,13 @@ const TitleDecoration = styled.span`
   color: #d81b60;
 
   @media (max-width: 768px) {
-    font-size: 20px;
+    font-size: 22px;
     left: -20px;
   }
 `;
 
 const WhyUsText = styled.p`
-  font-size: 18px;
+  font-size: 20px;
   color: #333;
   font-family: "Poppins", sans-serif;
   max-width: 600px;

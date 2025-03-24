@@ -18,14 +18,14 @@ const Nav = styled.nav`
   align-items: center;
   padding: 28px 16px;
   font-weight: 700;
-  font-size: 22px;
+  font-size: 24px;
   font-family: "Georgia", serif;
   gap: 32px;
 
   @media (max-width: 768px) {
     flex-direction: column;
     gap: 16px;
-    font-size: 18px;
+    font-size: 20px;
     padding: 16px;
   }
 `;
@@ -48,7 +48,7 @@ const NavLink = styled.a`
       top: 50%;
       transform: translateY(-50%);
       color: #999;
-      font-size: 20px;
+      font-size: 22px;
     }
   }
 `;

@@ -25,14 +25,14 @@ const Bubble = styled.div`
   padding: 20px 24px;
   border-radius: 50px;
   font-weight: 600;
-  font-size: 16px;
+  font-size: 18px;
   font-family: "Georgia", serif;
   text-align: center;
 `;
 
 const Title = styled.h3`
   font-family: "Georgia", serif;
-  font-size: 36px;
+  font-size: 38px;
   color: #5c3c77;
 `;
 
@@ -43,7 +43,7 @@ const Speech = styled.div`
   border-radius: 20px;
   width: 300px;
   box-shadow: 5px 5px 0 #774188;
-  font-size: 16px;
+  font-size: 18px;
   font-family: "Georgia", serif;
 
   position: relative;
@@ -61,14 +61,14 @@ const Speech = styled.div`
 `;
 
 const Subtitle = styled.h4`
-  font-size: 28px;
+  font-size: 30px;
   color: #a18cc9;
   font-weight: bold;
   font-family: "Georgia", serif;
 `;
 
 const Paragraph = styled.p`
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 400;
 `;
 

@@ -19,14 +19,14 @@ const FeaturesTitleWrapper = styled.div`
 `;
 
 const FeaturesTitle = styled.h2`
-  font-size: 36px;
+  font-size: 44px;
   color: #d81b60;
   font-family: "Helvetica", "Arial", sans-serif; // <-- TU
   font-weight: 700;
   margin-bottom: 30px;
 
   @media (max-width: 768px) {
-    font-size: 28px;
+    font-size: 36px;
   }
 `;
 
@@ -34,11 +34,11 @@ const TitleDecoration = styled.span`
   position: absolute;
   top: -10px;
   right: -30px;
-  font-size: 24px;
+  font-size: 26px;
   color: #d81b60;
 
   @media (max-width: 768px) {
-    font-size: 20px;
+    font-size: 28px;
     right: -20px;
   }
 `;
@@ -52,14 +52,14 @@ const FeaturesList = styled.ul`
 `;
 
 const FeatureItem = styled.li`
-  font-size: 25px;
+  font-size: 33px;
   color: #333;
   font-family: "Poppins", sans-serif;
   margin-bottom: 15px;
   line-height: 1.6;
 
   @media (max-width: 768px) {
-    font-size: 14px;
+    font-size: 22px;
   }
 
   &:before {

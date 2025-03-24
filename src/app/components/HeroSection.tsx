@@ -28,7 +28,7 @@ const TextWrapper = styled.div`
 `;
 
 const Logo = styled.h1`
-  font-size: 48px;
+  font-size: 50px;
   color: #d81b60;
   font-weight: 700;
   margin-bottom: 10px;
@@ -39,7 +39,7 @@ const Logo = styled.h1`
 `;
 
 const Slogan = styled.p`
-  font-size: 20px;
+  font-size: 22px;
   color: #666;
   font-weight: 400;
 

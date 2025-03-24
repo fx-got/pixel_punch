@@ -28,13 +28,13 @@ const LogoBlock = styled.div`
 `;
 
 const LogoLine1 = styled.h1`
-  font-size: 67px;
+  font-size: 69px;
   color: #7d5ba6;
   margin: 0;
 `;
 
 const LogoLine2 = styled.h1`
-  font-size: 67px;
+  font-size: 69px;
   font-weight: bold;
   color: #7d5ba6;
   margin: 0;
@@ -42,7 +42,7 @@ const LogoLine2 = styled.h1`
 
 const Subheading = styled.p`
   font-family: "Tan Nimbus", serif;
-  font-size: 18px;
+  font-size: 20px;
   text-align: center;
   color: #444;
 `;
@@ -53,11 +53,11 @@ const WhyBox = styled.div`
   color: white;
   font-family: "Helvetica", "Arial", sans-serif;
   border-radius: 8px;
-  font-size: 16px;
+  font-size: 18px;
 `;
 
 const WhyHeading = styled.h2`
-  font-size: 24px;
+  font-size: 26px;
   font-weight: 700;
   margin-bottom: 10px;
   color: #fff;
@@ -70,14 +70,14 @@ const SocialMediaBox = styled.div`
 `;
 
 const SocialHeading = styled.h3`
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 600;
   text-decoration: underline;
   margin-bottom: 16px;
 `;
 
 const SocialItem = styled.p`
-  font-size: 16px;
+  font-size: 18px;
   margin-bottom: 8px;
 
   & a {
@@ -125,7 +125,7 @@ const NewsBox = styled.div`
 
 const NewsHeading = styled.h2`
   font-family: "Tan Nimbus", serif;
-  font-size: 32px;
+  font-size: 34px;
   font-weight: 800;
   color: #7d5ba6;
   margin-bottom: 10px;

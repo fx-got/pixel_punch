@@ -25,7 +25,7 @@ const TextBox = styled.div`
 `;
 
 const Title = styled.h2`
-  font-size: 30px;
+  font-size: 32px;
   font-weight: 700;
   color: #8e69af;
   margin-bottom: 12px;
@@ -39,7 +39,7 @@ const Line = styled.div`
 `;
 
 const Description = styled.p`
-  font-size: 20px;
+  font-size: 22px;
   line-height: 1.5;
 `;
 
@@ -61,7 +61,7 @@ const ChatBubble = styled.div`
   padding: 24px 28px;
   border-radius: 24px;
   box-shadow: 6px 6px 0px #9b79b3;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.6;
   position: relative;
   max-width: 100%;

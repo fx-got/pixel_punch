@@ -14,14 +14,14 @@ const StatsWrapper = styled.section`
 `;
 
 const StatsTitle = styled.h2`
-  font-size: 24px;
+  font-size: 26px;
   color: #d81b60;
   font-family: "Poppins", sans-serif;
   font-weight: 700;
   margin-bottom: 30px;
 
   @media (max-width: 768px) {
-    font-size: 20px;
+    font-size: 22px;
   }
 `;
 
@@ -41,17 +41,17 @@ const StatItem = styled.li`
 `;
 
 const StatIcon = styled.span`
-  font-size: 20px;
+  font-size: 22px;
   margin-right: 5px;
 `;
 
 const StatText = styled.span`
-  font-size: 16px;
+  font-size: 18px;
   color: #333;
   font-family: "Poppins", sans-serif;
 
   @media (max-width: 768px) {
-    font-size: 14px;
+    font-size: 16px;
   }
 `;
 
