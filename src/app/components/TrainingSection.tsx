@@ -94,7 +94,7 @@ const TrainingSection: React.FC = () => {
 
       <ChatContainer>
         <ChatBubble>
-          Nie uczymy „co to jest Facebook” – pokazujemy, jak go wykorzystać, by
+          Nie uczymy „co to jest Instagram” – pokazujemy, jak go wykorzystać, by
           Twoja firma naprawdę była widoczna. Praktyka, konkrety, bez nudnych
           slajdów. Tu nie siedzisz – tu działasz.
         </ChatBubble>
